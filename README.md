@@ -5,7 +5,7 @@
 - [Getting Started](https://github.com/chemistrydatachampions/awesome-chemistry-info#Getting-Started)
 - [Open Data Formats](https://github.com/chemistrydatachampions/awesome-chemistry-info#Formats)
 - [Open Chemistry Software](https://github.com/chemistrydatachampions/awesome-chemistry-info#Software)
-- [Open Chemistry ELN](https://github.com/chemistrydatachampions/awesome-chemistry-info#ELS)
+- [Open Chemistry ELN](https://github.com/chemistrydatachampions/awesome-chemistry-info#ELN)
 
 ## Getting-Started
 ### Getting your data out of Excel
