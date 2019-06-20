@@ -8,8 +8,9 @@
 - [Open Chemistry ELN](https://github.com/chemistrydatachampions/awesome-chemistry-info#ELS)
 
 ## Getting-Started
-### getting your data out of Excel
+### Getting your data out of Excel
 - [Excel vs R: when to use what](https://www.rforexcelusers.com/excel-vs-r-when-to-use-what/) - because Excel is a great tool, but another might be better.
+### Plotting with R and Rstudio
 - [Plotting some data in R](http://web.cs.ucla.edu/~gulzar/rstudio/basic-tutorial.html) - make a plot!
 
 
@@ -20,4 +21,4 @@
 
 ## ELN
 - [OneNote](https://products.office.com/en-gb/onenote/digital-note-taking-app?rtc=1) - this comes with the University Office365 subscription.  Makes collaboration easier.
-- [OneDrive](https://onedrive.live.com/about/en-gb/) - we get 1 Tb of free storage with our Cambridge Office365 subscription and it makes backing up to the cloud a breeze.
+- [OneDrive](https://onedrive.live.com/about/en-gb/) - we get 1 Tb of free storage with our University Office365 subscription and it makes backing up to the cloud a breeze.
