@@ -9,8 +9,8 @@
 
 ## Getting-Started
 ### getting your data out of Excel
-- [Excel vs R: when to use what] (https://www.rforexcelusers.com/excel-vs-r-when-to-use-what/) - because Excel is a great tool, but another might be better.
-- [Plotting some data in R] (http://web.cs.ucla.edu/~gulzar/rstudio/basic-tutorial.html) - make a plot!
+- [Excel vs R: when to use what](https://www.rforexcelusers.com/excel-vs-r-when-to-use-what/) - because Excel is a great tool, but another might be better.
+- [Plotting some data in R](http://web.cs.ucla.edu/~gulzar/rstudio/basic-tutorial.html) - make a plot!
 
 
 ## Formats
