@@ -25,4 +25,4 @@
 
 ## Training resources
 - [Periodic Table of the Open Research Ecosystem](http://doi.org/10.5281/zenodo.3263989) - this can be downloaded and adapted based on your own perspective and position in this ecosystem.
-- [The Turing Way](https://the-turing-way.netlify.com/introduction/introduction) - a "lightly opinionated guide to reproducible data science" that can be adapted for our own use.
+- [The Turing Way](https://the-turing-way.netlify.com/introduction/introduction) - a "lightly opinionated guide to reproducible data science" that can be adapted for our own use. Powerpoint slides about this resource are on [Zenodo](http://doi.org/10.5281/zenodo.3292461)
