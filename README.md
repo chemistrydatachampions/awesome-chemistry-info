@@ -27,4 +27,4 @@
 - [Periodic Table of the Open Research Ecosystem](http://doi.org/10.5281/zenodo.3263989) - this can be downloaded and adapted based on your own perspective and position in this ecosystem.
 
 ## The Turing Way: A how to guide for reproducible research
-- [The Turing Way](https://the-turing-way.netlify.com/introduction/introduction)
+- [The Turing Way](https://the-turing-way.netlify.com/introduction/introduction) - a lightly opinionated guide to reproducible data science.
