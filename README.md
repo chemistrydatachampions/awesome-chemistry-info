@@ -23,8 +23,6 @@
 - [OneNote](https://products.office.com/en-gb/onenote/digital-note-taking-app?rtc=1) - this comes with the University Office365 subscription.  Makes collaboration easier.
 - [OneDrive](https://onedrive.live.com/about/en-gb/) - we get 1 Tb of free storage with our University Office365 subscription and it makes backing up to the cloud a breeze.
 
-## Periodic Table of the Open Research Ecosystem
+## Training resources
 - [Periodic Table of the Open Research Ecosystem](http://doi.org/10.5281/zenodo.3263989) - this can be downloaded and adapted based on your own perspective and position in this ecosystem.
-
-## The Turing Way: A how to guide for reproducible research
-- [The Turing Way](https://the-turing-way.netlify.com/introduction/introduction) - a lightly opinionated guide to reproducible data science.
+- [The Turing Way](https://the-turing-way.netlify.com/introduction/introduction) - a "lightly opinionated guide to reproducible data science" that can be adapted for our own use.
