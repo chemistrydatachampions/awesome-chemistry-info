@@ -16,6 +16,7 @@
 
 
 ## Formats
+- [FAIR chemistry data](https://iupac.org/iupac-endorses-the-chemistry-go-fair-manifesto/) - Chemistry Go Fair Manifesto. [Top 10 FAIR Data & Software Things](https://librarycarpentry.org/Top-10-FAIR/)
 
 ## Software
 - [RStudio](https://www.rstudio.com/products/rstudio/download/) - original and best.
