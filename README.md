@@ -17,6 +17,7 @@
 
 ## Formats
 - [FAIR chemistry data](https://iupac.org/iupac-endorses-the-chemistry-go-fair-manifesto/) - Chemistry Go Fair Manifesto. [Top 10 FAIR Data & Software Things](https://librarycarpentry.org/Top-10-FAIR/)
+- PLUMED, an open-source library for enhanced sampling, free-energy calculations and the analysis of molecular dynamics simulations. [PLUMED-NEST repository](https://www.plumed-nest.org/). [Nature paper](https://www.nature.com/articles/s41592-019-0506-8.pdf)
 
 ## Software
 - [RStudio](https://www.rstudio.com/products/rstudio/download/) - original and best.
