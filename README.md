@@ -21,7 +21,7 @@
 
 ## Software
 - [RStudio](https://www.rstudio.com/products/rstudio/download/) - original and best.
-- {ChemDataExtractor] - automatically extract chemical information from scientific documents.
+- [ChemDataExtractor](http://chemdataextractor.org/) - automatically extract chemical information from scientific documents.
 
 ## ELN
 - [OneNote](https://products.office.com/en-gb/onenote/digital-note-taking-app?rtc=1) - this comes with the University Office365 subscription.  Makes collaboration easier.
