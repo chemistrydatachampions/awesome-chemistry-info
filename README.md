@@ -32,5 +32,5 @@
 - [The Turing Way](https://the-turing-way.netlify.com/introduction/introduction) - a "lightly opinionated guide to reproducible data science" that can be adapted for our own use. Powerpoint slides about this resource are on [Zenodo.](http://doi.org/10.5281/zenodo.3292461)
 
 ## Machine learning and AI
-- [MELLODDY (Machine Learning Ledger Orchestration for Drug Discovery)] - retain privacy while sharing pharmaceutical data. See https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(19)31401-1/fulltext and https://www.imi.europa.eu/projects-results/project-factsheets/melloddy
+- MELLODDY (Machine Learning Ledger Orchestration for Drug Discovery) - retain privacy while sharing pharmaceutical data. See https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(19)31401-1/fulltext and https://www.imi.europa.eu/projects-results/project-factsheets/melloddy
 
