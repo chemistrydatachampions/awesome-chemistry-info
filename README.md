@@ -34,3 +34,5 @@
 ## Machine learning and AI
 - MELLODDY (Machine Learning Ledger Orchestration for Drug Discovery) - retain privacy while sharing pharmaceutical data. See https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(19)31401-1/fulltext and https://www.imi.europa.eu/projects-results/project-factsheets/melloddy
 
+## Experiments
+- IYCN (International Young Chemists' Network) Experiment Database(https://www.iycnglobal.com/experiments) - Experiments are freely available to download in different languages in a PDF file.
