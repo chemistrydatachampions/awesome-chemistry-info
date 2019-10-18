@@ -36,3 +36,6 @@
 
 ## Experiments
 - [IYCN (International Young Chemists' Network) Experiment Database](https://www.iycnglobal.com/experiments) - Experiments are freely available to download in different languages in a PDF file.
+
+## OA publishing
+- [Chemical Information Science Gateway (F1000)](https://blog.f1000.com/2019/07/18/reintroducing-the-chemical-information-science-gateway/) The scope of the gateway includes all computational approaches to represent and analyse chemical structures and chemical data or retrieve chemical information from any source. It also includes topical areas in chemical information science including artificial intelligence and machine learning methods.
