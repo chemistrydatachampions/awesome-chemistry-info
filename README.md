@@ -18,6 +18,7 @@
 ## Formats and standards
 - [FAIR chemistry data](https://iupac.org/iupac-endorses-the-chemistry-go-fair-manifesto/) - Chemistry Go Fair Manifesto. [Top 10 FAIR Data & Software Things](https://librarycarpentry.org/Top-10-FAIR/)
 - PLUMED, an open-source library for enhanced sampling, free-energy calculations and the analysis of molecular dynamics simulations. [Nature paper.](https://www.nature.com/articles/s41592-019-0506-8.pdf) [PLUMED-NEST repository](https://www.plumed-nest.org/). 
+- [Open Babel](http://openbabel.org/wiki/Main_Page) - a chemical toolbox designed to speak the many languages of chemical data. It's an open, collaborative project allowing anyone to search, convert, analyze, or store data from molecular modeling, chemistry, solid-state materials, biochemistry, or related areas.
 
 ## Software
 - [RStudio](https://www.rstudio.com/products/rstudio/download/) - original and best.
