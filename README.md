@@ -2,11 +2,11 @@
 
 ## Table Of Contents
 
-- [Getting Started](https://github.com/chemistrydatachampions/awesome-chemistry-info#Getting-Started)
-- [Open Data Formats](https://github.com/chemistrydatachampions/awesome-chemistry-info#Formats)
-- [Open Chemistry Software](https://github.com/chemistrydatachampions/awesome-chemistry-info#Software)
-- [Open Chemistry ELN](https://github.com/chemistrydatachampions/awesome-chemistry-info#ELN)
-- [Open Science Training Resources](https://github.com/chemistrydatachampions/awesome-chemistry-info#Training-resources)
+- [Getting Started](#Getting-Started)
+- [Open Data Formats](#Formats-and-standards)
+- [Open Chemistry Software](#Software)
+- [Open Chemistry ELN](#ELN)
+- [Open Science Training Resources](#Training-resources)
 
 ## Getting-Started
 ### Getting your data out of Excel
