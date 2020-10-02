@@ -3,7 +3,7 @@
 ## Table Of Contents
 
 - [Getting Started](https://github.com/chemistrydatachampions/awesome-chemistry-info#Getting-Started)
-- [Open Data Formats](https://github.com/chemistrydatachampions/awesome-chemistry-info#Formats)
+- [Open Data Formats](https://github.com/chemistrydatachampions/awesome-chemistry-info#Formats-and-standards)
 - [Open Chemistry Software](https://github.com/chemistrydatachampions/awesome-chemistry-info#Software)
 - [Open Chemistry ELN](https://github.com/chemistrydatachampions/awesome-chemistry-info#ELN)
 - [Open Science Training Resources](https://github.com/chemistrydatachampions/awesome-chemistry-info#Training-resources)
