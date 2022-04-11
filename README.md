@@ -7,6 +7,7 @@
 - [Open Chemistry Software](https://github.com/chemistrydatachampions/awesome-chemistry-info#Software)
 - [Open Chemistry ELN](https://github.com/chemistrydatachampions/awesome-chemistry-info#ELN)
 - [Open Science Training Resources](https://github.com/chemistrydatachampions/awesome-chemistry-info#Training-resources)
+- [Data management plans](https://github.com/chemistrydatachampions/awesome-chemistry-info#Data-management-plans)
 
 ## Getting-Started
 ### Getting your data out of Excel
@@ -41,3 +42,6 @@
 
 ## OA publishing
 - [Chemical Information Science Gateway (F1000)](https://blog.f1000.com/2019/07/18/reintroducing-the-chemical-information-science-gateway/) The scope of the gateway includes all computational approaches to represent and analyse chemical structures and chemical data or retrieve chemical information from any source. It also includes topical areas in chemical information science including artificial intelligence and machine learning methods.
+
+## Data management plans
+- [List of data management plans from EPCC](https://github.com/chemistrydatachampions/awesome-chemistry-info#Training-resources)
